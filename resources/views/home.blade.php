@@ -22,7 +22,7 @@
                     
                     <a href="{{ route('patients.profile') }}" class="btn btn-secondary">Actualizar Datos</a> 
 
-                    <a href="{{ route('appointments.index') }}" class="btn btn-primary">Ver mis citas</a>
+                    <a href="{{ route('appointments.update') }}" class="btn btn-secondary">Ver mis citas</a>
                 </div>
             </div>
         </div>
